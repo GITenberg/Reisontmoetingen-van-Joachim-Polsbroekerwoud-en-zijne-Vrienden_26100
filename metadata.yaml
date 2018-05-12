@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '31796'
     url: http://www.gutenberg.org/2009/agents/31796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26100#Reisontmoetingen-van-Joachim-Polsbroekerwoud-en-zijne-Vrienden
 gutenberg_issued: '2008-07-21'
 gutenberg_type: Text
 identifiers:
