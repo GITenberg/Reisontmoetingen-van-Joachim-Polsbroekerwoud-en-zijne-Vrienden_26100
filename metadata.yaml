@@ -1,0 +1,37 @@
+_repo: Reisontmoetingen-van-Joachim-Polsbroekerwoud-en-zijne-Vrienden_26100
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Laak, W.F.C. van
+    birthdate: 1841
+    deathdate: 1923
+    gutenberg_agent_id: '31797'
+    url: http://www.gutenberg.org/2009/agents/31797
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gewin, Bernardus
+    alias: Vlerk
+    birthdate: 1812
+    deathdate: 1873
+    gutenberg_agent_id: '31796'
+    url: http://www.gutenberg.org/2009/agents/31796
+description: ''
+gutenberg_issued: '2008-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26100'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Netherlands -- Description and travel'
+- !lcsh 'Switzerland -- Description and travel'
+- !lcc 'PT'
+- !lcsh 'Germany -- Description and travel'
+title: Reisontmoetingen van Joachim Polsbroekerwoud en zijne Vrienden
+url: http://www.gutenberg.org/ebooks/26100
